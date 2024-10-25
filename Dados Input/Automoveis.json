@@ -1,0 +1,233 @@
+[
+  {
+    "marca": "Volkswagen",
+    "modelo": "Polo",
+    "cor": "Prata",
+    "potencia": "95 cv",
+    "ano": 2020,
+    "tipo_combustivel": "Gasolina",
+    "transmissao": "Manual",
+    "pais_fabricacao": "Alemanha",
+    "disponibilidade": "Disponível"
+  },
+  {
+    "marca": "Renault",
+    "modelo": "Clio",
+    "cor": "Azul",
+    "potencia": "100 cv",
+    "ano": 2021,
+    "tipo_combustivel": "Gasolina",
+    "transmissao": "Manual",
+    "pais_fabricacao": "França",
+    "disponibilidade": "Indisponível"
+  },
+  {
+    "marca": "Peugeot",
+    "modelo": "208",
+    "cor": "Vermelho",
+    "potencia": "110 cv",
+    "ano": 2022,
+    "tipo_combustivel": "Gasolina",
+    "transmissao": "Automática",
+    "pais_fabricacao": "França",
+    "disponibilidade": "Disponível"
+  },
+  {
+    "marca": "Ford",
+    "modelo": "Fiesta",
+    "cor": "Branco",
+    "potencia": "120 cv",
+    "ano": 2020,
+    "tipo_combustivel": "Gasolina",
+    "transmissao": "Manual",
+    "pais_fabricacao": "EUA",
+    "disponibilidade": "Disponível"
+  },
+  {
+    "marca": "BMW",
+    "modelo": "Série 1",
+    "cor": "Preto",
+    "potencia": "150 cv",
+    "ano": 2021,
+    "tipo_combustivel": "Diesel",
+    "transmissao": "Automática",
+    "pais_fabricacao": "Alemanha",
+    "disponibilidade": "Indisponível"
+  },
+  {
+    "marca": "Audi",
+    "modelo": "A3",
+    "cor": "Cinza",
+    "potencia": "140 cv",
+    "ano": 2020,
+    "tipo_combustivel": "Diesel",
+    "transmissao": "Automática",
+    "pais_fabricacao": "Alemanha",
+    "disponibilidade": "Disponível"
+  },
+  {
+    "marca": "Mercedes-Benz",
+    "modelo": "A-Class",
+    "cor": "Preto",
+    "potencia": "160 cv",
+    "ano": 2022,
+    "tipo_combustivel": "Gasolina",
+    "transmissao": "Automática",
+    "pais_fabricacao": "Alemanha",
+    "disponibilidade": "Disponível"
+  },
+  {
+    "marca": "Seat",
+    "modelo": "Ibiza",
+    "cor": "Amarelo",
+    "potencia": "95 cv",
+    "ano": 2021,
+    "tipo_combustivel": "Gasolina",
+    "transmissao": "Manual",
+    "pais_fabricacao": "Espanha",
+    "disponibilidade": "Disponível"
+  },
+  {
+    "marca": "Opel",
+    "modelo": "Corsa",
+    "cor": "Prata",
+    "potencia": "90 cv",
+    "ano": 2022,
+    "tipo_combustivel": "Gasolina",
+    "transmissao": "Manual",
+    "pais_fabricacao": "Alemanha",
+    "disponibilidade": "Indisponível"
+  },
+  {
+    "marca": "Toyota",
+    "modelo": "Yaris",
+    "cor": "Verde",
+    "potencia": "75 cv",
+    "ano": 2023,
+    "tipo_combustivel": "Híbrido",
+    "transmissao": "Automática",
+    "pais_fabricacao": "Japão",
+    "disponibilidade": "Disponível"
+  },
+  {
+    "marca": "Nissan",
+    "modelo": "Micra",
+    "cor": "Azul",
+    "potencia": "90 cv",
+    "ano": 2020,
+    "tipo_combustivel": "Gasolina",
+    "transmissao": "Manual",
+    "pais_fabricacao": "Japão",
+    "disponibilidade": "Disponível"
+  },
+  {
+    "marca": "Fiat",
+    "modelo": "Punto",
+    "cor": "Cinza",
+    "potencia": "85 cv",
+    "ano": 2021,
+    "tipo_combustivel": "Gasolina",
+    "transmissao": "Manual",
+    "pais_fabricacao": "Itália",
+    "disponibilidade": "Indisponível"
+  },
+  {
+    "marca": "Hyundai",
+    "modelo": "i20",
+    "cor": "Vermelho",
+    "potencia": "100 cv",
+    "ano": 2022,
+    "tipo_combustivel": "Gasolina",
+    "transmissao": "Manual",
+    "pais_fabricacao": "Coreia do Sul",
+    "disponibilidade": "Disponível"
+  },
+  {
+    "marca": "Kia",
+    "modelo": "Rio",
+    "cor": "Branco",
+    "potencia": "85 cv",
+    "ano": 2023,
+    "tipo_combustivel": "Gasolina",
+    "transmissao": "Manual",
+    "pais_fabricacao": "Coreia do Sul",
+    "disponibilidade": "Disponível"
+  },
+  {
+    "marca": "Skoda",
+    "modelo": "Fabia",
+    "cor": "Prata",
+    "potencia": "75 cv",
+    "ano": 2021,
+    "tipo_combustivel": "Gasolina",
+    "transmissao": "Manual",
+    "pais_fabricacao": "República Checa",
+    "disponibilidade": "Disponível"
+  },
+  {
+    "marca": "Honda",
+    "modelo": "Civic",
+    "cor": "Preto",
+    "potencia": "150 cv",
+    "ano": 2022,
+    "tipo_combustivel": "Gasolina",
+    "transmissao": "Automática",
+    "pais_fabricacao": "Japão",
+    "disponibilidade": "Indisponível"
+  },
+  {
+    "marca": "Tesla",
+    "modelo": "Model 3",
+    "cor": "Branco",
+    "potencia": "258 cv",
+    "ano": 2023,
+    "tipo_combustivel": "Elétrico",
+    "transmissao": "Automática",
+    "pais_fabricacao": "EUA",
+    "disponibilidade": "Disponível"
+  },
+  {
+    "marca": "Nissan",
+    "modelo": "Leaf",
+    "cor": "Verde",
+    "potencia": "150 cv",
+    "ano": 2021,
+    "tipo_combustivel": "Elétrico",
+    "transmissao": "Automática",
+    "pais_fabricacao": "Japão",
+    "disponibilidade": "Indisponível"
+  },
+  {
+    "marca": "BMW",
+    "modelo": "i3",
+    "cor": "Cinza",
+    "potencia": "170 cv",
+    "ano": 2022,
+    "tipo_combustivel": "Elétrico",
+    "transmissao": "Automática",
+    "pais_fabricacao": "Alemanha",
+    "disponibilidade": "Indisponível"
+  },
+  {
+    "marca": "Hyundai",
+    "modelo": "Kona Electric",
+    "cor": "Azul",
+    "potencia": "204 cv",
+    "ano": 2023,
+    "tipo_combustivel": "Elétrico",
+    "transmissao": "Automática",
+    "pais_fabricacao": "Coreia do Sul",
+    "disponibilidade": "Disponível"
+  },
+  {
+    "marca": "Volkswagen",
+    "modelo": "ID.3",
+    "cor": "Prata",
+    "potencia": "204 cv",
+    "ano": 2023,
+    "tipo_combustivel": "Elétrico",
+    "transmissao": "Automática",
+    "pais_fabricacao": "Alemanha",
+    "disponibilidade": "Disponível"
+  }
+]
