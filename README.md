@@ -8,7 +8,7 @@
 
 ## Descrição do Projeto
 
-Este projeto utiliza a ferramenta KNIME para realizar processos de **ETL (Extração, Transformação e Carregamento)** com o objetivo de integrar e analisar dados relacionados a automóveis. O foco está na comparação entre veículos a combustão e veículos elétricos, permitindo uma análise  de características como marca, modelo, potência, tipo de combustível, consumo, entre outros fatores.
+Este projeto utiliza a ferramenta KNIME para realizar processos de **ETL** com o objetivo de integrar e analisar dados relacionados a automóveis. O foco está na comparação entre veículos, permitindo uma análise  de características como marca, modelo, potência, tipo de combustível, consumo, entre outros fatores.
 
 O projeto está inserido no contexto da unidade curricular de **Integração de Sistemas de Informação (ISI)**, sendo orientado para explorar técnicas de integração, normalização e análise de dados.
 
@@ -24,7 +24,7 @@ O projeto está inserido no contexto da unidade curricular de **Integração de 
 
 
 - **KNIME**: Ferramenta principal para realizar os processos de ETL.
-- **API JSON**: Utilizada para extração de dados de automóveis e sua integração no workflow.
+- **API JSON**: Utilizada para extração de dados de automóveis
 - **JSON/CSV**: Formatos utilizados para importação e exportação de dados.
 
 
@@ -50,5 +50,4 @@ O projeto está inserido no contexto da unidade curricular de **Integração de 
 
 Este projeto demonstra como a integração de dados pode ser otimizada com processos ETL. A transformação e a normalização adequadas permitem uma análise robusta e precisa. Em projetos futuros, a implementação eficaz de ETL será fundamental para garantir a integridade e qualidade dos dados, permitindo a rápida adaptação a novas exigências e a identificação de oportunidades de melhoria.
 
-
-   git clone https://github.com/Carlos26875/ISI
+git clone https://github.com/Carlos26875/ISI
