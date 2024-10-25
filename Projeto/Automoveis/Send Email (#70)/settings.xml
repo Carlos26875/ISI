@@ -15,16 +15,17 @@
         <entry key="smtpPasswordWeaklyEncrypted" type="xpassword" value="02DQAAAGMq_QxveL1vZ0EBj2dNYkFoeaTe8n2so8IW9ilO"/>
         <entry key="connectionSecurity" type="xstring" value="STARTTLS"/>
         <entry key="emailFormat" type="xstring" value="Text"/>
-        <entry key="emailPriority" type="xstring" value="Normal"/>
+        <entry key="emailPriority" type="xstring" value="High"/>
         <entry key="from" type="xstring" value="a26875@alunos.ipca.pt"/>
         <entry key="to" type="xstring" value="a26875@alunos.ipca.pt"/>
         <entry key="cc" type="xstring" value=""/>
         <entry key="bcc" type="xstring" value=""/>
         <entry key="replyTo" type="xstring" value="carlos.moreda.tgp1@gmail.com"/>
-        <entry key="subject" type="xstring" value="asdasd"/>
-        <entry key="text" type="xstring" value="asdasdasd$${Sknime.workspace}$$"/>
+        <entry key="subject" type="xstring" value="Eficiencia Automovel"/>
+        <entry key="text" type="xstring" value="Boa Noite,%%00010%%00010Envio em anexo o documento com a eficiencia de cada Automovel%%00010%%00010Cumprimentos"/>
         <config key="attachedURLs">
-            <entry key="array-size" type="xint" value="0"/>
+            <entry key="array-size" type="xint" value="1"/>
+            <entry key="0" type="xstring" value="file:/C:%5CUsers%5CCarlo%5COneDrive%5CAmbiente%20de%20Trabalho%5CTP01_ISI_26875%5CDados%20Output%5CEconomico_0.xml"/>
         </config>
         <entry key="smtpConnectionTimeout" type="xint" value="5000"/>
         <entry key="smtpReadTimeout" type="xint" value="30000"/>
@@ -48,6 +49,6 @@
     <config key="ports"/>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="3b8808fa-b281-456a-a705-497f54e39aad"/>
+        <entry key="file_store_id" type="xstring" value="7bfc4c79-2b1c-46bb-9c2f-b3df10b634c1"/>
     </config>
 </config>
